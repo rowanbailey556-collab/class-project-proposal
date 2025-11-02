@@ -1,4 +1,4 @@
-# IK-Class-Project-Proposal
+# RB-Class-Project-Proposal
 Within this Repository includes all necessary components of my class project proposal. 
 Crossroads — Class Product Proposal
 
@@ -43,4 +43,4 @@ Advanced Technical Features (beyond core class scope)
 Simple event bus to track metrics (choice frequency, endings reached)
 
 
-Credit ChatGPT, Ian K
+Credit ChatGPT
